@@ -7,7 +7,7 @@ In this project, let's build a Notifications app by applying the concepts we hav
 Use these files to complete the implementation:
 -index.js
 -index.css
-#### Resources
+### Resources
 #Image URLs:
 - https://assets.ccbp.in/frontend/react-js/primary-icon-img.png
 - https://assets.ccbp.in/frontend/react-js/success-icon-img.png
