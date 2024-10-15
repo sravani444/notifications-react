@@ -2,7 +2,7 @@
 
 <br/>
 <div style="text-align: center;">
-<img src="https://assets.ccbp.in/frontend/content/react-js/notifications-lg-output.png" alt="login-app-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="https://assets.ccbp.in/frontend/content/react-js/notifications-lg-output.png" alt="login-app-output" style="max-width:50%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -42,7 +42,7 @@ Use these files to complete the implementation:
 <br/>
 **The following instructions are required for the tests to pass**
 
-- Achieve the given layout using only Conditional Rendering
+- Achieve the given layout using only Components and Props
 </details>
 
 ### Resources
@@ -52,11 +52,11 @@ Use these files to complete the implementation:
 
 <br/>
 
-<div style="background-color: #2b2c49 ; width: 150px; padding: 10px; color: white">Hex: #2b2c49</div>
-<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #b5b9ff ; width: 150px; padding: 10px; color: white">Hex: #b5b9ff</div>
-<div style="background-color: #f8fafc ; width: 150px; padding: 10px; color: black">Hex: #f8fafc</div>
-<div style="background-color: #303150 ; width: 150px; padding: 10px; color: white">Hex: #303150</div>
+<div style="background-color: ##0f172a ; width: 150px; padding: 10px; color: black">Hex: #0f172a</div>
+<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: white">Hex: #ffffff</div>
+<div style="background-color: # #0b69ff; width: 150px; padding: 10px; color: white">Hex: #0b69ff</div>
+<div style="background-color: #2dca73 ; width: 150px; padding: 10px; color: black">Hex: #2dca73</div>
+<div style="background-color: ##ffb800 ; width: 150px; padding: 10px; color: white">Hex: #ffb800</div>
 
 </details>
 
