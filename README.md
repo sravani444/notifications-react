@@ -52,12 +52,12 @@ Use these files to complete the implementation:
 
 <br/>
 
-<div style="background-color: ##0f172a ; width: 150px; padding: 10px; color: black">Hex: #0f172a</div>
-<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: white">Hex: #ffffff</div>
-<div style="background-color: # #0b69ff; width: 150px; padding: 10px; color: white">Hex: #0b69ff</div>
-<div style="background-color: #2dca73 ; width: 150px; padding: 10px; color: black">Hex: #2dca73</div>
-<div style="background-color: ##ffb800 ; width: 150px; padding: 10px; color: white">Hex: #ffb800</div>
-
+<div style="background-color: ##0f172a ; width: 150px; padding: 10px; color: Black">Hex: #0f172a</div>
+<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: White">Hex: #ffffff</div>
+<div style="background-color: # #0b69ff; width: 150px; padding: 10px; color: Blue">Hex: #0b69ff</div>
+<div style="background-color: #2dca73 ; width: 150px; padding: 10px; color: Green">Hex: #2dca73</div>
+<div style="background-color: ##ffb800 ; width: 150px; padding: 10px; color: Yellow">Hex: #ffb800</div>
+<div style="background-color: ##ffb800 ; width: 150px; padding: 10px; color: Red">Hex: #ff0b37</div>
 </details>
 
 <details>
